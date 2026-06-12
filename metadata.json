@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fridge & Culinary Assistant",
+  "description": "Snap a photo of your open fridge to get AI-suggested recipes, filtering by dietary restrictions with step-by-step cooking and read-aloud functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
